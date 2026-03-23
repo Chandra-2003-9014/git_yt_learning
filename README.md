@@ -1,2 +1,2 @@
 # git_yt_learning
-hey i am learnind git
+hey i am learning git
